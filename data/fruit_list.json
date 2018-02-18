@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Watermelons",
+    "code": "w01",
+    "pack_price": {
+      "3": 6.99,
+      "5": 8.99
+    }
+  },
+  {
+    "name": "Pineapples",
+    "code": "p01",
+    "pack_price": {
+      "2": 9.95,
+      "5": 16.95,
+      "8": 24.95
+    }
+  },
+  {
+    "name": "Rockmelons",
+    "code": "r01",
+    "pack_price": {
+      "3": 5.95,
+      "5": 9.95,
+      "9": 16.99
+    }
+  }
+]
